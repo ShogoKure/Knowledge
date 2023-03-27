@@ -2,8 +2,6 @@
 
 ## Index
 
----
-
 - [CI｜継続的インテグレーションcontinuous-integrationci](#継続的インテグレーションcontinuous-integrationci)
   - [CIの概要](#ciの概要)
   - [CIの最も重要な利点](#ciの最も重要な利点)
@@ -26,8 +24,6 @@
 
 
 ## CI｜継続的インテグレーション（Continuous Integration、CI）
-
----
 
 ### CIの概要
 
@@ -68,8 +64,6 @@ CIの実装には、ビルドやテストの自動化が必要。多くの場合
 - Atlassian Bamboo: https://www.atlassian.com/software/bamboo
 
 ## Jenkins
-
----
 
 ### Jenkinsの概要
 
@@ -126,8 +120,6 @@ docker run -d -p 8080:8080 -p 50000:50000 --name jenkins -v jenkins_home:/var/je
 - Jenkinsユーザーガイド: https://jenkins.io/doc/
 
 ## 関連用語
-
----
 
 #### ビルド
 
