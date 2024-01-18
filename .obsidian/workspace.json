@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "137cc640e439df34",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25469d5699dce12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9bb7ef678d00ad3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a6cac85aa6308d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "51bc2e0f26284456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abd94e89aaca0c79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cce4e4476bd5695f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ac8df0b0b964889",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5dcec0fbb5b23a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9bfcf02395d86c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ed2d994128699bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "293771c638a0d137",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df94eb96c5d59ec6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72a8d39ba720d9fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "abd94e89aaca0c79",
+  "lastOpenFiles": [
+    "memo",
+    "無題のファイル.canvas",
+    "20230329_Git_Knowledge.md",
+    "無題のファイル.md",
+    "20230331_Linux_Knowledge.md",
+    "20230327_CIandJenkins_knowledge.md"
+  ]
+}
