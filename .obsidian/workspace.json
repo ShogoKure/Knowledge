@@ -11,8 +11,12 @@
             "id": "c9bb7ef678d00ad3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000_Memo/20230327_CIandJenkins_knowledge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000_Memo/20230327_CIandJenkins_knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000_Memo/20230327_CIandJenkins_knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000_Memo/20230327_CIandJenkins_knowledge.md"
+              }
             }
           }
         ]
@@ -140,11 +148,12 @@
   },
   "active": "abd94e89aaca0c79",
   "lastOpenFiles": [
-    "memo",
+    "001_Command",
+    "000_Memo",
     "無題のファイル.canvas",
-    "20230329_Git_Knowledge.md",
+    "000_Memo/20230329_Git_Knowledge.md",
     "無題のファイル.md",
-    "20230331_Linux_Knowledge.md",
-    "20230327_CIandJenkins_knowledge.md"
+    "000_Memo/20230331_Linux_Knowledge.md",
+    "000_Memo/20230327_CIandJenkins_knowledge.md"
   ]
 }
