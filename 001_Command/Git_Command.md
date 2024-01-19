@@ -4,7 +4,7 @@
 
 [公式ドキュメント](https://git-scm.com/docs)
 
-## branch
+## git branch
 
 ### 現在のリポジトリ上のすべてのローカルブランチを一覧で表示
 
@@ -46,7 +46,7 @@ git branch --color
 git branch --no-color
 ```
 
-## log
+## git log
 
 ### 各ブランチのツリー構造を確認
 
