@@ -1,10 +1,22 @@
-# Git Command
+# Gitコマンドのサマリー
 
-## Reference
+## " Reference "
 
 [公式ドキュメント](https://git-scm.com/docs)
+[Git チートシート](https://training.github.com/downloads/ja/github-git-cheat-sheet.pdf)
+[Git Hub Docs](https://docs.github.com/ja)
 
-## git branch
+## " git cloen "
+
+### 既存のリポジトリをクローンする
+
+```shell
+git clone [RepositoryURL]
+```
+
+デフォルトでカレントディレクトリに保存される
+
+## " git branch "
 
 ### 現在のリポジトリ上のすべてのローカルブランチを一覧で表示
 
@@ -46,10 +58,18 @@ git branch --color
 git branch --no-color
 ```
 
-## git log
+## " git log "
 
 ### 各ブランチのツリー構造を確認
 
 ```shell
 git log  --all --graph --decorate --oneline
+```
+
+## " git checkout "
+
+### 指定されたブランチに切り替え
+
+```shell
+git checkout [BranchName]
 ```

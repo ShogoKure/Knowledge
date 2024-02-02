@@ -1,4 +1,4 @@
-# Knowledge of Linux
+# Linuxコマンドについて
 
 ## Index
 
@@ -18,9 +18,9 @@ ls <-option> <file_name or directory_name>
 ```shell
 # .で始まる隠しファイル等もすべて出力
 - a
-# .で始まる隠しファイル等もすべて出力
+# 詳細情報をリスト形式で表示
 - l
-
+# ディレクトリ名 (ファイル名) のみでリスト形式で表示
 ```
 
 ### 補足
