@@ -1,9 +1,6 @@
 # JenkinsとCIについて
 
-## Index
-
 - [JenkinsとCIについて](#jenkinsとciについて)
-  - [Index](#index)
   - [CI｜継続的インテグレーション（Continuous Integration、CI）](#ci継続的インテグレーションcontinuous-integrationci)
     - [CIの概要](#ciの概要)
     - [CIの最も重要な利点](#ciの最も重要な利点)

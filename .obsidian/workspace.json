@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_Command/Git_Command.md",
-                "mode": "preview",
+                "file": "000_Memo/JenkinsとCIについて.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Command/Git_Command.md",
+                "file": "000_Memo/JenkinsとCIについて.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Command/Git_Command.md",
+                "file": "000_Memo/JenkinsとCIについて.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_Command/Git_Command.md"
+                "file": "000_Memo/JenkinsとCIについて.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,6 +149,9 @@
   },
   "active": "c9bb7ef678d00ad3",
   "lastOpenFiles": [
+    "001_Command/Git_コマンド.md",
+    "000_Memo/Linuxについて.md",
+    "000_Memo/GitHubについて.md",
     "000_Memo/20230331_Linux_Knowledge.md",
     "000_Memo/20230329_Git_Knowledge.md",
     "000_Memo/20230327_CIandJenkins_knowledge.md",
