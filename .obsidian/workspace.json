@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Memo/JenkinsとCIについて.md",
-                "mode": "source",
-                "source": false
+                "file": "001_Area/JenkinsとCIについて.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Memo/JenkinsとCIについて.md",
+                "file": "001_Area/JenkinsとCIについて.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Memo/JenkinsとCIについて.md",
+                "file": "001_Area/JenkinsとCIについて.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_Memo/JenkinsとCIについて.md"
+                "file": "001_Area/JenkinsとCIについて.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "c9bb7ef678d00ad3",
   "lastOpenFiles": [
+    "001_Area/Linuxについて.md",
+    "001_Area/JenkinsとCIについて.md",
+    "001_Area/GitHubについて.md",
+    "001_Area/Git_コマンド.md",
     "001_Command/Git_コマンド.md",
     "000_Memo/Linuxについて.md",
     "000_Memo/GitHubについて.md",
